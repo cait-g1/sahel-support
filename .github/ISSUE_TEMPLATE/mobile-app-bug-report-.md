@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: 'Mobile App Bug Report '
+about: 'Create a report to help us improve mobile app '
 title: ''
 labels: bug
 assignees: KLD
@@ -8,7 +8,7 @@ assignees: KLD
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+Describe the bug briefly. 
 
 **To Reproduce**
 Steps to reproduce the behavior:
@@ -17,8 +17,7 @@ Steps to reproduce the behavior:
 3. Clicked on: 
 
 **Resulted error**
-
-*describe the error here*
+Describe error or error message.
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
