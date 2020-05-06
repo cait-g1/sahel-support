@@ -3,7 +3,7 @@ name: Website Bug Report
 about: 'Create a report to help us improve website '
 title: ''
 labels: bug
-assignees: ''
+assignees: SPineapple
 
 ---
 
